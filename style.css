@@ -22,7 +22,7 @@ body{
 .header p{
     color: white;
     font-size: 20px;
-    margin-bottom: 35px;
+    margin-bottom: 40px;
 
 }
 .button{
@@ -33,6 +33,46 @@ body{
     text-decoration: none;
     border-radius: 6px;
     font-size: 20px;
-    margin-top: 20px;
 
 }
+.donate-today{
+    text-align: center;
+}
+.donate-today h1{
+    font-size: 50px;
+    padding: 120px 0px 30px 0px;
+}
+.donate-today p{
+    color: dimgrey;
+    font-size: 20px;
+    margin-bottom: 35px;
+
+}
+.donate-amount li{
+    display: inline-block;
+    margin-bottom: 35px;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 40px 40px;
+    background-color: #FAFAFA;
+    color: dimgray;
+}
+.other-amount{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    height: 40px;
+    width: 850px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    
+}
+#for-placeH::-webkit-input-placeholder{
+    font-size: 20px;
+    text-align: center;
+}
+/* hr{
+    width: 60%;
+    margin-left: 320px;
+    margin-bottom: 30px;
+} */
