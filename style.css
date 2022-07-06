@@ -164,3 +164,54 @@ body{
     cursor: pointer;
     font-size: 18px;
 }
+.get-update{
+    margin-top: 50px;
+
+}
+.get-update h1{
+    font-size: 50px;
+    text-align: center;
+}
+.get-update p{
+    text-align: center;
+    font-size: 20px;
+    color: dimgray;
+}
+.update-input{
+    width: 70%;
+    background-color: #FFF4D6;
+    margin: 0 auto;
+    padding: 30px 0px;
+    text-align: center;
+}
+.input-div{
+    height: auto;
+    margin: 0 auto;
+}
+label{
+    color: dimgray;
+    font-size: 20px;
+    
+}
+.input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    padding: 12px 270px 12px 0px;
+    background-color: #D9D9D9;
+    margin: 7px 0px;
+
+}
+textarea{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: #D9D9D9;
+    margin: 7px 0px 20px 0px;   
+}
+::-webkit-input-placeholder{
+    font-size: 16px;
+    opacity: .5;
+}
