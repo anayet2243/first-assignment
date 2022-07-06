@@ -119,6 +119,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 90px;
+    
 
 }
 .half-width{
@@ -146,4 +147,20 @@ body{
     width: 450px;
     border-radius: 4px;
     margin-left: 0px !important;
+}
+.footer{
+    width: 100%;
+    background-color: #1D2641;
+    text-align: center;
+    color: dimgray;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+.footer ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 40px;
+    cursor: pointer;
+    font-size: 18px;
 }
