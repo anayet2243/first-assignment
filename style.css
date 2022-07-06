@@ -38,7 +38,7 @@ body{
 .donate-today{
     text-align: center;
 }
-.donate-today h1{
+.donate-heading{
     font-size: 50px;
     padding: 120px 0px 30px 0px;
 }
@@ -70,4 +70,48 @@ body{
 #for-placeH::-webkit-input-placeholder{
     font-size: 20px;
     text-align: center;
+}
+.donate-plan h1{
+    text-align: center;
+}
+.plan-text{
+    color: dimgrey;
+    font-size: 20px;
+    margin-bottom: 35px;
+    text-align: center;
+
+}
+.plan-sub-section{
+    
+    padding: 90px 20px;
+    width: 22%;
+    margin: 0% 2%;
+    
+}
+.plan-section{
+    display: flex;
+    justify-content: center;
+}
+.plan-section img{
+    height: 70px;
+    width: 70px;
+}
+.plan-section h2{
+    padding: 20px 0px;
+}
+.bg-color-food{
+    background-color: #EDF5F6;
+
+}
+.bg-color-shelter{
+    background-color: #FFEEEE;
+    
+}
+.bg-color-edu{
+    background-color: #FFF4D6;
+}
+.plan-section p{
+    color: dimgrey;
+    font-size: 20px;
+    text-align: justify;
 }
